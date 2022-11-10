@@ -1,4 +1,4 @@
-# IBM-Project-9694-1659336517
+# IBM-Project-9694-1659068514
 Inventory Managment System for Retailers
 
 An inventory management system can simplify the process of ordering, storing and using inventory by automating end-to-end production, business management, demand forecasting and accounting.
