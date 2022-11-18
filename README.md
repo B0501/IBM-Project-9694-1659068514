@@ -15,7 +15,8 @@ Make a offline copy to your pc
 
 RUN the main.py
 
-enter username EMP0000
+Enter  
+      username EMP0000
 
       password 411719106006
 
