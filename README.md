@@ -1,26 +1,26 @@
 # IBM-Project-9694-1659068514
-Inventory Managment System for Retailers
+  Inventory Managment System for Retailers
 
-An inventory management system can simplify the process of ordering, storing and using inventory by automating end-to-end production, business management, demand forecasting and accounting.
 
-A software developed using Python which provides as easy way to track the products, suppliers, customers as well as purchase and sales information. It also records the stock currently available in the store. There are basically two users, Administrator and Normal User. Both the users can manage suppliers, products, customers and purchase and sell products. The only difference between the two users is that the administrator can also view sales report and can also manage other users.
 
-It is basically build on an coffee shop retail management system orders,delivers and billing can be monitored for both new and existing user's.
+# Software Required:
+  Python, Flask , Docker
+  System Required:
+  8GB RAM,Intel Core i3,OS-Windows/Linux/MAC ,Laptop or Desktop
+# Project Discription
 
-Steps to execute:
+    Retail inventory management is the process of ensuring you carry merchandise that shoppers want, with neither too little nor too much on hand.
+    By managing inventory, retailers meet customer demand without running out of stock or carrying excess supply. 
+    In practice, effective retail inventory management results in lower costs and a better understanding of sales patterns.
+    Retail inventory management tools and methods give retailers more information on which to run their businesses.
+    Applications have been developed to help retailers track and manage stocks related to their own products.
+    The System will ask retailers to create their accounts by providing essential details. Retailers can access their accounts by logging into the application.
+    Once retailers successfully log in to the application they can update their inventory details, also users will be able to add new stock by submitting essential details related to the stock.
+    They can view details of the current inventory. The System will automatically send an email alert to the retailers if there is no stock found in their accounts.
+    So that they can order new stock.
+    
 
-Download the final deliveries - inventory management for retailer's file
+Click here to watch the video   :
 
-Make a offline copy to your pc
-
-RUN the main.py
-
-Enter  
-     
-      username EMP0000
-
-      password 411719106006
-
-Perform activities such as add or remove user,update database,billing,update stocks .
- 
-Complete file's to be downloaded
+user name:bala@domain.com
+password :bala@1
