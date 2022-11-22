@@ -19,8 +19,9 @@
     They can view details of the current inventory. The System will automatically send an email alert to the retailers if there is no stock found in their accounts.
     So that they can order new stock.
     
+Click here to login :http://169.51.205.80:32357/login
 
 Click here to watch the video   :
 
-user name:bala@domain.com
-password :bala@1
+              user name:bala@domain.com
+              password :bala@1
