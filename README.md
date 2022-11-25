@@ -20,7 +20,8 @@
     So that they can order new stock.
     
 
-Click here to watch the video   :
+Click here to watch the video   :https://drive.google.com/file/d/1dEX3vlU7e6vdTTeZ2RRxC3DKjNXbUvf5/view?usp=drivesdk
 
 user name:bala@domain.com
 password :bala@1
+
